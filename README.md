@@ -22,8 +22,8 @@ This MATLAB project implements a face recognition system using a simple GUI with
 
 ## ⚙️ Requirements
 
-- MATLAB (R2021b or later recommended)
-- Deep Learning Toolbox
+- MATLAB (R2019b or later recommended)
+- Deep Learning Toolbox (Webcam)
 - Pretrained AlexNet (`alexnet`) — Download using:
   ```matlab
   net = alexnet;
